@@ -1,0 +1,7 @@
+{
+  "Resources" : {
+    "lillie" : {
+      "Type" : "AWS::S3::Bucket"
+    }
+  }
+}
