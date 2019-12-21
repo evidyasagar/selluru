@@ -1,7 +1,11 @@
 {
-"Resources": {
-"lillies":{
-"Type:AWS::S3::bucket"
-}
-}
+
+  "Resources" : {
+
+    "lillies" : {
+      "Type" : "AWS::S3::Bucket"
+    }
+
+  }
+
 }
